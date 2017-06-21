@@ -1,5 +1,6 @@
-### [<-- BACK](readme.md)
-# Adding Eslint To A Project:
+### [BACK](readme.md)
+
+# Adding Eslint to a Project:
 
 1. npm install eslint --save-dev
 
