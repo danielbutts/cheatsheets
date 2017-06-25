@@ -4,6 +4,8 @@
 
 ### [Using the Express Generator](express-generator.md)
 
+### [Deploying to Heroku with Postgres & Knex](heroku.md)
+
 
 ## External Links:
 

@@ -2,7 +2,7 @@
 
 # Using the Express Generator:
 
-#### If not already installed
+#### If Express Generator not already installed
 
 1. npm install -g express-generator
 
